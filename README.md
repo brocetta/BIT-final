@@ -1,4 +1,4 @@
-Deployed at: https://job-seeker.herokuapp.com/
+Deployed at: https://bit-final-report-manager.vercel.app/
 
 # Report Manager
 
